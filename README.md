@@ -5,8 +5,8 @@ file manager rebuilt to look and work like the macOS (Golden Gate) Finder.
 It installs as a separate app called Finder, next to stock Dolphin, with its
 own settings.
 
-Based on Dolphin 26.08.1. Every Finder change is a commit on top of the
-`v26.08.1` tag, and the upstream code is marked `Finder:` where it was changed.
+Based on Dolphin 26.08.2. Every Finder change is a commit on top of Dolphin's
+tags, and the upstream code is marked `Finder:` where it was changed.
 
 ## What's different from Dolphin
 
